@@ -1,52 +1,58 @@
-## Hi there 👋
+import { motion } from "framer-motion";
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
 
-# 👋 Alisson Caio
+export default function Portfolio() {
+  return (
+    <div className="min-h-screen bg-black text-white p-6">
+      {/* HEADER */}
+      <motion.h1
+        initial={{ opacity: 0, y: -40 }}
+        animate={{ opacity: 1, y: 0 }}
+        className="text-4xl font-bold text-center mb-10"
+      >
+        Alisson Caio 🚀
+      </motion.h1>
 
-💻 Front-End Developer
-🎨 Interfaces modernas e responsivas
-📍 Brasil
+      {/* GRID DE PROJETOS */}
+      <div className="grid md:grid-cols-2 gap-6">
+        {/* PROJETO 1 */}
+        <motion.div whileHover={{ scale: 1.05 }}>
+          <Card className="rounded-2xl shadow-xl">
+            <CardContent className="p-4">
+              <h2 className="text-xl font-semibold">SoilLab</h2>
+              <p className="text-sm opacity-70">
+                Sistema desenvolvido para o Instituto Federal.
+              </p>
+              <div className="mt-4 flex gap-2">
+                <Button>Ver Projeto</Button>
+                <Button variant="outline">Código</Button>
+              </div>
+            </CardContent>
+          </Card>
+        </motion.div>
 
----
+        {/* PROJETO 2 */}
+        <motion.div whileHover={{ scale: 1.05 }}>
+          <Card className="rounded-2xl shadow-xl">
+            <CardContent className="p-4">
+              <h2 className="text-xl font-semibold">Agenda Corp</h2>
+              <p className="text-sm opacity-70">
+                Aplicação de organização moderna e responsiva.
+              </p>
+              <div className="mt-4 flex gap-2">
+                <Button>Ver Projeto</Button>
+                <Button variant="outline">Código</Button>
+              </div>
+            </CardContent>
+          </Card>
+        </motion.div>
+      </div>
 
-## 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📂 Projetos
-
-🔹 Projeto 1 — SoilLab (Projeto Intituto Federal)
-🔹 Projeto 2 — Agenda Corp
-
----
-
-## 🎯 Objetivo
-
-Me tornar um dev front-end profissional e trabalhar com projetos reais 🚀
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-<a href="alisk_775"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="mailto:alissoncaiosilvasilveira70@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/Bilissom"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-
-</div>
+      {/* FOOTER */}
+      <div className="text-center mt-10 opacity-60">
+        © 2026 Alisson Caio
+      </div>
+    </div>
+  );
+}
