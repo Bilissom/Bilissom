@@ -42,11 +42,29 @@ Ferramentas
 
 Projetos selecionados
 SoilLab
+<p>
+  <a href="https://portal.ifro.edu.br/" target="_blank" rel="noopener noreferrer">
+    <img src="https://portal.ifro.edu.br/images/botoes_do_site/menu-de-relevancia/logotipo-IFRO-portal-principal.png" alt="Instituto Federal de Rondônia — IFRO" width="150">
+  </a>
+</p>
+
 Plataforma acadêmica para organizar amostras de solo, realizar cálculos agronômicos e apoiar a emissão de laudos.
 Agenda Corporativa
+<p>
+  <a href="https://portal.ifro.edu.br/" target="_blank" rel="noopener noreferrer">
+    <img src="https://portal.ifro.edu.br/images/botoes_do_site/menu-de-relevancia/logotipo-IFRO-portal-principal.png" alt="Instituto Federal de Rondônia — IFRO" width="150">
+  </a>
+</p>
+
 Aplicação de produtividade com agenda, tarefas e diferentes níveis de acesso para equipes e empresas.
 CivisAcademy
-Projeto de educação financeira que combina conteúdo escolar com uma experiência gamificada.
+<p>
+  <a href="https://www.desafioligajovem.com.br/" target="_blank" rel="noopener noreferrer">
+    <img src="https://desafioligajovem.com.br/wp-content/uploads/2026/08/Logo-DLJ4-1024x580.png" alt="Desafio Liga Jovem" width="120">
+  </a>
+</p>
+
+Projeto de educação financeira gamificada desenvolvido no contexto do Desafio Liga Jovem, do Sebrae. A equipe foi classificada na edição de 2026.
 <p align="center">
   <a href="https://portifolio-alisson.web.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/VER%20PORTFOLIO-ACESSAR%20PROJETOS-F28C28?style=for-the-badge&labelColor=101820" alt="Acessar portfólio e ver projetos">
