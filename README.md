@@ -41,23 +41,18 @@ Ferramentas
 </p>
 
 Projetos selecionados
-SoilLab
-<p>
-  <a href="https://portal.ifro.edu.br/" target="_blank" rel="noopener noreferrer">
-    <img src="https://portal.ifro.edu.br/images/botoes_do_site/menu-de-relevancia/logotipo-IFRO-portal-principal.png" alt="Instituto Federal de Rondônia — IFRO" width="150">
-  </a>
-</p>
-
+01 — SOILLAB
 Plataforma acadêmica para organizar amostras de solo, realizar cálculos agronômicos e apoiar a emissão de laudos.
-Agenda Corporativa
-<p>
+02 — AGENDA CORPORATIVA
+Aplicação de produtividade com agenda, tarefas e diferentes níveis de acesso para equipes e empresas.
+<p align="center">
+  <sub>PROJETOS ACADÊMICOS · IFRO</sub><br>
   <a href="https://portal.ifro.edu.br/" target="_blank" rel="noopener noreferrer">
-    <img src="https://portal.ifro.edu.br/images/botoes_do_site/menu-de-relevancia/logotipo-IFRO-portal-principal.png" alt="Instituto Federal de Rondônia — IFRO" width="150">
+    <img src="https://portal.ifro.edu.br/images/botoes_do_site/menu-de-relevancia/logotipo-IFRO-portal-principal.png" alt="Instituto Federal de Rondônia — IFRO" width="105">
   </a>
 </p>
 
-Aplicação de produtividade com agenda, tarefas e diferentes níveis de acesso para equipes e empresas.
-CivisAcademy
+03 — CIVISACADEMY
 <p>
   <a href="https://www.desafioligajovem.com.br/" target="_blank" rel="noopener noreferrer">
     <img src="https://desafioligajovem.com.br/wp-content/uploads/2026/08/Logo-DLJ4-1024x580.png" alt="Desafio Liga Jovem" width="120">
