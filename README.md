@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://portifolio-alisson.web.app/">
+  <a href="https://portifolio-alisson.web.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PORTFOLIO-VER%20PROJETOS-F28C28?style=for-the-badge&labelColor=101820" alt="Ver portfólio">
   </a>
-  <a href="mailto:alissoncaiosilvasilveira70@gmail.com">
+  <a href="mailto:alissoncaiosilvasilveira70@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CONTATO-E--MAIL-243342?style=for-the-badge&labelColor=101820" alt="Entrar em contato por e-mail">
   </a>
 </p>
@@ -35,7 +35,9 @@ Ferramentas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" alt="Git, GitHub e Visual Studio Code">
   <br>
-  <img src="https://img.shields.io/badge/Antigravity-Ferramenta%20de%20desenvolvimento-243342?style=flat-square&labelColor=101820" alt="Antigravity">
+  <a href="https://antigravity.google/product/antigravity-ide" target="_blank" rel="noopener noreferrer">
+    <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" alt="Antigravity" width="48" height="48">
+  </a>
 </p>
 
 Projetos selecionados
@@ -46,7 +48,7 @@ Aplicação de produtividade com agenda, tarefas e diferentes níveis de acesso 
 CivisAcademy
 Projeto de educação financeira que combina conteúdo escolar com uma experiência gamificada.
 <p align="center">
-  <a href="https://portifolio-alisson.web.app/">
+  <a href="https://portifolio-alisson.web.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/VER%20PORTFOLIO-ACESSAR%20PROJETOS-F28C28?style=for-the-badge&labelColor=101820" alt="Acessar portfólio e ver projetos">
   </a>
 </p>
@@ -55,10 +57,10 @@ Oportunidades
 Aberto a estágio e oportunidades iniciais em desenvolvimento web. Quero contribuir com projetos reais, aprender em equipe e crescer como desenvolvedor.
 Contato
 <p>
-  <a href="mailto:alissoncaiosilvasilveira70@gmail.com">E-mail</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Bilissom">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/alisk_775">Instagram</a> &nbsp;·&nbsp;
-  <a href="https://portifolio-alisson.web.app/">Portfólio</a>
+  <a href="mailto:alissoncaiosilvasilveira70@gmail.com" target="_blank" rel="noopener noreferrer">E-mail</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Bilissom" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/alisk_775" target="_blank" rel="noopener noreferrer">Instagram</a> &nbsp;·&nbsp;
+  <a href="https://portifolio-alisson.web.app/" target="_blank" rel="noopener noreferrer">Portfólio</a>
 </p>
 
 <p align="right"><sub>Construindo, testando e aprendendo a cada projeto.</sub></p>
