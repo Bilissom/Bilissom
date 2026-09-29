@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:101820,100:243342&text=01%20/%20PERFIL&fontColor=F28C28&fontSize=22&fontAlign=50&fontAlignY=52&fontFamily=Montserrat&stroke=F28C28&strokeWidth=1" alt="01 — Perfil">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=01%20/%20PERFIL&fontColor=F28C28&fontSize=22&fontAlign=50&fontAlignY=52&fontFamily=Montserrat" alt="01 — Perfil">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:101820,100:243342&text=02%20/%20TECNOLOGIAS&fontColor=56D9CF&fontSize=22&fontAlign=50&fontAlignY=52&fontFamily=Montserrat&stroke=56D9CF&strokeWidth=1" alt="02 — Tecnologias">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=02%20/%20TECNOLOGIAS&fontColor=56D9CF&fontSize=22&fontAlign=50&fontAlignY=52&fontFamily=Montserrat" alt="02 — Tecnologias">
 </p>
 
 <p align="center">
@@ -66,16 +66,16 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:101820,100:243342&text=03%20/%20PROJETOS&fontColor=F28C28&fontSize=22&fontAlign=50&fontAlignY=52&fontFamily=Montserrat&stroke=F28C28&strokeWidth=1" alt="03 — Projetos">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=03%20/%20PROJETOS&fontColor=F28C28&fontSize=22&fontAlign=50&fontAlignY=52&fontFamily=Montserrat" alt="03 — Projetos">
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:18232D,100:243342&text=01%20/%20SOILLAB&fontColor=EDF2F7&fontSize=18&fontAlign=50&fontAlignY=52&fontFamily=Montserrat" alt="01 — SoilLab">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&text=01%20/%20SOILLAB&fontColor=EDF2F7&fontSize=18&fontAlign=50&fontAlignY=52&fontFamily=Montserrat" alt="01 — SoilLab">
 </p>
 <p align="center">Plataforma acadêmica para organizar amostras de solo, realizar cálculos agronômicos e apoiar a emissão de laudos.</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:18232D,100:243342&text=02%20/%20AGENDA%20CORPORATIVA&fontColor=EDF2F7&fontSize=18&fontAlign=50&fontAlignY=52&fontFamily=Montserrat" alt="02 — Agenda Corporativa">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&text=02%20/%20AGENDA%20CORPORATIVA&fontColor=EDF2F7&fontSize=18&fontAlign=50&fontAlignY=52&fontFamily=Montserrat" alt="02 — Agenda Corporativa">
 </p>
 <p align="center">Aplicação de produtividade com agenda, tarefas e diferentes níveis de acesso para equipes e empresas.</p>
 
@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:18232D,100:243342&text=03%20/%20CIVISACADEMY&fontColor=EDF2F7&fontSize=18&fontAlign=50&fontAlignY=52&fontFamily=Montserrat" alt="03 — CivisAcademy">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&text=03%20/%20CIVISACADEMY&fontColor=EDF2F7&fontSize=18&fontAlign=50&fontAlignY=52&fontFamily=Montserrat" alt="03 — CivisAcademy">
 </p>
 <p align="center">Projeto de educação financeira gamificada desenvolvido no contexto do <strong>Desafio Liga Jovem, do Sebrae</strong>. A equipe foi classificada na edição de 2026.</p>
 <p align="center">
@@ -104,14 +104,14 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:101820,100:243342&text=04%20/%20OPORTUNIDADES&fontColor=56D9CF&fontSize=22&fontAlign=50&fontAlignY=52&fontFamily=Montserrat&stroke=56D9CF&strokeWidth=1" alt="04 — Oportunidades">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=04%20/%20OPORTUNIDADES&fontColor=56D9CF&fontSize=22&fontAlign=50&fontAlignY=52&fontFamily=Montserrat" alt="04 — Oportunidades">
 </p>
 
 <p align="center">Aberto a estágio e oportunidades iniciais em desenvolvimento web.<br>Quero contribuir com projetos reais, aprender em equipe e crescer como desenvolvedor.</p>
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:101820,100:243342&text=05%20/%20CONTATO&fontColor=F28C28&fontSize=22&fontAlign=50&fontAlignY=52&fontFamily=Montserrat&stroke=F28C28&strokeWidth=1" alt="05 — Contato">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=05%20/%20CONTATO&fontColor=F28C28&fontSize=22&fontAlign=50&fontAlignY=52&fontFamily=Montserrat" alt="05 — Contato">
 </p>
 
 <p align="center">
