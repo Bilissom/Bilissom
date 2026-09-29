@@ -1,86 +1,109 @@
-<h1 align="center">Olá, eu sou o Alisson Caio 👋</h1>
-
 <p align="center">
-  <strong>Desenvolvedor Front-End</strong> com experiência prática em projetos Full-Stack
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:101820,100:243342&text=ALISSON%20CAIO&fontColor=F28C28&fontSize=46&fontAlign=8&fontAlignY=42&desc=FRONT-END%20DEVELOPER%20%7C%20FULL-STACK%20PROJECTS&descAlign=8&descAlignY=68&descSize=15&animation=fadeIn" alt="Alisson Caio — Front-End Developer | Full-Stack Projects">
 </p>
 
 <p align="center">
   <a href="https://portifolio-alisson.web.app/">
-    <img src="https://img.shields.io/badge/Portfólio-Visite%20meu%20site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
-  </a>
-  <a href="https://github.com/Bilissom">
-    <img src="https://img.shields.io/badge/GitHub-Bilissom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
-## Sobre mim
-
-Sou estudante do **Técnico em Informática no IFRO** e desenvolvedor em formação, com foco em criar interfaces web modernas, responsivas e fáceis de usar.
-
-Meu principal interesse é **Front-End**, mas já trabalhei em projetos que também envolvem back-end, banco de dados e integração de serviços. Uso ferramentas de IA para acelerar tarefas, explorar ideias e aprender — sempre buscando entender e revisar o que estou construindo.
-
-Pretendo continuar minha formação na área de tecnologia, ingressando em **Análise e Desenvolvimento de Sistemas ou Ciência da Computação**.
-
-- 🎨 Foco em desenvolvimento Front-End e experiência do usuário
-- 🔧 Experiência prática construindo projetos Full-Stack
-- 🤖 Uso de IA como apoio ao desenvolvimento e aprendizado
-- 📚 Sempre aprendendo e transformando ideias em projetos
-- 🌎 Ji-Paraná, Rondônia — Brasil
-
-> Gosto de criar experiências digitais que sejam bonitas, úteis e bem construídas.
-
-## Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,mysql,firebase,supabase,git,github,vscode" alt="Tecnologias">
-</p>
-
-**Também utilizo:** Antigravity e ferramentas de IA para prototipação, pesquisa, desenvolvimento e resolução de problemas.
-
-## Projetos em destaque
-
-### SoilLab
-Plataforma acadêmica para apoiar a organização e análise de dados de amostras de solo, com cálculos e geração de laudos.
-
-**Destaques:** interface web, organização de dados e aplicação de conceitos de tecnologia a um problema real.
-
-### Agenda Corporativa
-Aplicação de organização e produtividade com foco em empresas e equipes.
-
-**Destaques:** agenda, tarefas, usuários com diferentes níveis de acesso e integração com serviços de dados.
-
-### CivisAcademy
-Projeto de educação financeira gamificada, desenvolvido para incentivar o aprendizado de forma interativa.
-
-**Destaques:** proposta educacional, experiência de usuário e desenvolvimento de produto digital.
-
-<p align="center">
-  <a href="https://portifolio-alisson.web.app/">
-    <strong>Veja meu portfólio para conhecer outros projetos →</strong>
-  </a>
-</p>
-
-## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bilissom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilissom&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
-</p>
-
-## Vamos conversar?
-
-Estou aberto a oportunidades de estágio, projetos e conexões na área de tecnologia.
-
-<p align="center">
-  <a href="https://portifolio-alisson.web.app/">
-    <img src="https://img.shields.io/badge/Portfólio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VER%20PROJETOS-F28C28?style=for-the-badge&labelColor=101820" alt="Ver portfólio">
   </a>
   <a href="mailto:alissoncaiosilvasilveira70@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-  <a href="https://instagram.com/alisk_775">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/CONTATO-ME%20ENCONTRE-243342?style=for-the-badge&labelColor=101820" alt="Entre em contato">
   </a>
 </p>
+
+<br>
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h3>PERFIL</h3>
+      <p>Sou estudante do Técnico em Informática no <strong>IFRO</strong> e desenvolvedor em formação. Meu foco é Front-End: interfaces claras, responsivas e com atenção aos detalhes visuais e ao uso no celular.</p>
+      <p>Em projetos acadêmicos e pessoais, também trabalhei com dados, autenticação e integrações. Isso me deu experiência prática em diferentes partes do desenvolvimento Full-Stack.</p>
+      <p>Uso ferramentas de IA para explorar soluções e acelerar protótipos; também estudo como cada parte funciona e faço ajustes no código.</p>
+    </td>
+    <td width="38%" valign="top">
+      <h3>EM FOCO</h3>
+      <p><strong>Área principal</strong><br>Desenvolvimento Front-End</p>
+      <p><strong>Experiência prática</strong><br>Projetos Web Full-Stack</p>
+      <p><strong>Formação futura</strong><br>ADS ou Ciência da Computação</p>
+      <p><strong>Localização</strong><br>Ji-Paraná, Rondônia</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## TECNOLOGIAS
+
+**Front-End**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="HTML, CSS, JavaScript, TypeScript e React">
+</p>
+
+**Back-End, dados e ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,mysql,firebase,supabase,git,github,vscode&theme=dark" alt="C sharp, MySQL, Firebase, Supabase, Git, GitHub e VS Code">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Antigravity-Ferramenta%20de%20desenvolvimento-243342?style=flat-square&labelColor=101820" alt="Antigravity">
+</p>
+
+<br>
+
+## PROJETOS SELECIONADOS
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 / SoilLab</strong><br><br>
+      Plataforma acadêmica para organizar amostras de solo, realizar cálculos agronômicos e apoiar a emissão de laudos.
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 / Agenda Corporativa</strong><br><br>
+      Aplicação de produtividade com agenda, tarefas e diferentes níveis de acesso para equipes e empresas.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>03 / CivisAcademy</strong><br><br>
+      Projeto de educação financeira que combina conteúdo escolar com uma experiência gamificada.
+    </td>
+    <td width="50%" valign="top">
+      <strong>MAIS PROJETOS</strong><br><br>
+      Veja detalhes, telas e outros trabalhos no meu portfólio.
+      <br><br>
+      <a href="https://portifolio-alisson.web.app/">portifolio-alisson.web.app</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## GITHUB
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bilissom&show_icons=true&hide_border=true&bg_color=101820&title_color=F28C28&text_color=D7DEE7&icon_color=F28C28" alt="Estatísticas do GitHub de Alisson">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilissom&layout=compact&hide_border=true&bg_color=101820&title_color=F28C28&text_color=D7DEE7" alt="Linguagens mais usadas">
+</p>
+
+<br>
+
+<table>
+  <tr>
+    <td valign="top">
+      <strong>OPORTUNIDADES</strong><br><br>
+      Aberto a estágio e oportunidades iniciais em desenvolvimento web. Quero contribuir com projetos reais, aprender em equipe e crescer como desenvolvedor.
+    </td>
+    <td valign="top">
+      <strong>CONTATO</strong><br><br>
+      <a href="mailto:alissoncaiosilvasilveira70@gmail.com">E-mail</a> &nbsp; / &nbsp;
+      <a href="https://github.com/Bilissom">GitHub</a> &nbsp; / &nbsp;
+      <a href="https://instagram.com/alisk_775">Instagram</a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><sub>Construindo, testando e aprendendo a cada projeto.</sub></p>
